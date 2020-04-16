@@ -20,3 +20,4 @@ in order to deploy (install & instantiate) new chaincdoe there are several steps
 
 inorder to stop all run -   
 `deployment/run_network_local.sh down`
+
